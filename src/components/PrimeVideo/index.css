@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.prime-video-container {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+}
+.prime-banner {
+  height: 30vh;
+}
+.division-2 {
+  background-color: #231f20;
+  width: 100vw;
+}
+.two-slider-container {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  width: 100vw;
+  margin: 0px;
+}
+.slider-container {
+  height: 40vh;
+  width: 90vw;
+
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  align-items: center;
+}
+.category {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+  margin: 0px;
+}

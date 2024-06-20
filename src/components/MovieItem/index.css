@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.thumbnail-img {
+  height: 25vh;
+  width: 20vw;
+}
+.popup-content-container {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+}
+.trigger-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  align-self: flex-end;
+}
